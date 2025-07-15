@@ -49,12 +49,6 @@ Se ti va di contribuire:
 - Java + Kotlin per la parte nativa
 
 ---
-[comment]: <> (
-## 📄 Licenza
 
-Questa app è open source.
-
----
-)
 > _Un piccolo promemoria può cambiare una giornata._
 
