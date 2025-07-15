@@ -52,7 +52,7 @@ Se ti va di contribuire:
 
 ## 📄 Licenza
 
-Questa app è open source sotto licenza [MIT](./LICENSE).
+//Questa app è open source.
 
 ---
 
