@@ -1,4 +1,4 @@
-![Logo](./Foto_LTDA_1_512x512.jpg)
+<img src="./Foto_LTDA_1_512x512.jpg" alt="Logo" width="150"/>
 
 # 📘 Last Times Diary
 
